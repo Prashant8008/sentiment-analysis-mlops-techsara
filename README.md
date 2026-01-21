@@ -1,5 +1,4 @@
 # sentiment-analysis-mlops-techsara
-readme_content = """
 # Sentiment Analysis MLOps Pipeline (Techsara Assessment)
 
 ## Overview
